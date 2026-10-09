@@ -1,0 +1,48 @@
+/* 留白 / Paper — 视觉令牌。新增风格应另建文件，通过 data-style 选择。 */
+:root,
+:root[data-style='paper'] {
+  color-scheme: light;
+  --bg: #faf9f6;
+  --surface: #ffffff;
+  --sidebar-bg: #f4f3ef;
+  --text: #232731;
+  --body-text: #454a54;
+  --muted: #747985;
+  --subtle: #a0a4ad;
+  --line: #e4e3de;
+  --strong-line: #cdcec9;
+  --accent: #365ad6;
+  --accent-hover: #2649c1;
+  --accent-soft: #e9edf9;
+  --note-bg: #f1f1ed;
+  --positive: #54836b;
+  --grade-a: #527664;
+  --grade-b: #9b7b46;
+  --grade-c: #848895;
+  --button-text: #ffffff;
+  --radius: 6px;
+  --hero-font: 'Noto Serif CJK SC', 'Songti SC', 'STSong', 'SimSun', serif;
+  --panel-shadow: 0 12px 40px #23273112, 0 2px 6px #23273108;
+}
+:root[data-style='paper'][data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #1b1d22;
+  --surface: #23262d;
+  --sidebar-bg: #17191e;
+  --text: #eceef3;
+  --body-text: #c3c7d0;
+  --muted: #9ba2af;
+  --subtle: #747d8b;
+  --line: #343840;
+  --strong-line: #4d535e;
+  --accent: #a1b4ff;
+  --accent-hover: #bbcbff;
+  --accent-soft: #2a3551;
+  --note-bg: #23262c;
+  --positive: #93baa4;
+  --grade-a: #93baa4;
+  --grade-b: #c6ae85;
+  --grade-c: #a2a9b8;
+  --button-text: #19213a;
+  --panel-shadow: 0 12px 40px #00000035;
+}
