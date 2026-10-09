@@ -1,0 +1,8 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>布局验证 · Better Life Guide</title><style>
+*{box-sizing:border-box}body{margin:0;background:#e9eaed;color:#30343c;font:13px system-ui}header{display:flex;align-items:center;gap:9px;padding:16px 24px;background:white;border-bottom:1px solid #ddd}strong{margin-right:auto;font-size:13px}button{cursor:pointer;border:1px solid #ddd;border-radius:5px;background:white;color:#555;padding:8px 13px}button[aria-pressed=true]{background:#30343c;color:white;border-color:#30343c}main{overflow:auto;padding:24px 30px}iframe{display:block;border:0;background:#faf9f6;margin:0 auto;box-shadow:0 2px 25px #00000012;max-width:none;width:390px;height:820px}#dimensions{font-size:11px;color:#777;margin-left:10px}
+</style></head>
+<body><header><strong>响应式布局验证</strong><button data-width="320" aria-pressed="false">320</button><button data-width="390" aria-pressed="true">390</button><button data-width="768" aria-pressed="false">768</button><button data-width="1440" aria-pressed="false">1440</button><span id="dimensions">390 × 820</span></header><main><iframe title="阅读站预览" src="./" width="390" height="820"></iframe></main><script>
+const frame=document.querySelector('iframe');document.querySelectorAll('[data-width]').forEach(button=>button.onclick=()=>{const width=button.dataset.width;frame.style.width=width+'px';frame.setAttribute('width',width);document.querySelectorAll('[data-width]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));document.getElementById('dimensions').textContent=width+' × 820';});
+</script></body></html>
