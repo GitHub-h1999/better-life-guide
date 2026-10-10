@@ -1,10 +1,19 @@
 {
   "source": "https://github.com/eternity4719/HowToLiveBetter",
-  "revision": "a994b6a0c90598b0fe15cb837343f438dbf7b95d",
-  "updatedAt": "2026-10-09T10:58:17+08:00",
-  "total": 675,
+  "revision": "bb25081b423091f9e22059aab6b4ed7343a2266d",
+  "updatedAt": "2026-10-09T20:00:34+08:00",
+  "total": 676,
   "license": "CC BY 4.0",
-  "migrations": {},
+  "migrations": {
+    "498793d353ce9359884c": "4c3487e40e30ab703d63",
+    "7edf7023ec0de30613d9": "25c5a62d7fa565f69ec2",
+    "368f30358fe4279ed9e9": "24d768b3758474dcddae",
+    "24ff9dd3552f7c7cf086": "216e95d568f43abe93e2",
+    "023c2842340a898e3814": "e9fcb4d52301d2cba09f",
+    "0c87e1e2e66aa816187a": "f952ee88f51925f0da34",
+    "50b34702ba8323dea0e9": "8df1ee3cbdba6c7923f1",
+    "f5caf7a5098ba1602b93": "6c8faf19c766ecb0963b"
+  },
   "chapters": [
     {
       "number": 1,
@@ -201,9 +210,9 @@
           }
         },
         {
-          "id": "47a5a7c98cc0bcaa6e35",
+          "id": "ab86954cbd3e0c950aee",
           "number": 10,
-          "title": "给 4 岁以下儿童用安全座椅，不要抱在怀里",
+          "title": "坐车时给 4 岁以下儿童用安全座椅，不要抱在怀里",
           "grade": "A",
           "tags": {
             "钱": "多",
@@ -214,7 +223,7 @@
           },
           "fields": {
             "成本": "一个 300 到 2000 元，能用几年。每次上车多花 1 分钟把孩子绑好。",
-            "说人话": "一岁以下的婴儿坐安全座椅，车祸里受致命伤的概率低约七成。1 到 4 岁的孩子低约一半。抱在怀里没有这个效果，急刹车时你也抱不住。",
+            "说人话": "一岁以下的婴儿坐车时用安全座椅，车祸里受致命伤的概率低约七成。1 到 4 岁的孩子低约一半。抱在怀里没有这个效果，急刹车时你也抱不住。",
             "收益": "美国交通安全主管部门（NHTSA）估计，用安全座椅能让轿车里 1 岁以下婴儿受致命伤的风险下降 71%。1 到 4 岁的幼儿下降 54%。世界卫生组织（WHO）的口径是婴儿死亡下降 71%",
             "证据等级": "A",
             "来源": "NHTSA (2024). Occupant Protection in Passenger Vehicles: 2022 Data (DOT HS 813 573). <https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813573> ; WHO (2025). Road traffic injuries fact sheet. <https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries>",
@@ -4371,6 +4380,27 @@
             "来源": "Gatt T, Grech A, Arshad H (2023). The Effect of Vitamin D Supplementation for Bone Healing in Fracture Patients: A Systematic Review. Advances in Orthopedics, 2023, 6236045. <https://doi.org/10.1155/2023/6236045>；Haines N, Kempton LB, Seymour RB, et al. (2017). The effect of a single early high-dose vitamin D supplement on fracture union in patients with hypovitaminosis D: a prospective randomised trial. Bone & Joint Journal, 99-B(11), 1520-1525. <https://doi.org/10.1302/0301-620X.99B11.BJJ-2017-0271.R1>；Slobogean GP, Bzovsky S, O'Hara NN, et al. (2023). Effect of Vitamin D3 Supplementation on Acute Fracture Healing: A Phase II Screening Randomized Double-Blind Controlled Trial. JBMR Plus, 7, e10705. <https://doi.org/10.1002/jbm4.10705>；Heyer FL, de Jong JJ, Willems PC, et al. (2021). The Effect of Bolus Vitamin D3 Supplementation on Distal Radius Fracture Healing: A Randomized Controlled Trial Using HR-pQCT. Journal of Bone and Mineral Research, 36, 1492-1501. <https://doi.org/10.1002/jbmr.4311>；Gorter EA, Hamdy NA, Appelman-Dijkstra NM, Schipper IB (2014). The role of vitamin D in human fracture healing: a systematic review of the literature. Bone, 64, 288-297. <https://doi.org/10.1016/j.bone.2014.04.026>；Hsu DJ, Lee CW, Tsai WC, Chien YC (2017). Essential and toxic metals in animal bone broths. Food & Nutrition Research, 61, 1347478（表 2、表 3）. <https://doi.org/10.1080/16546628.2017.1347478>；国家卫生和计划生育委员会 (2018). WS/T 578.2—2018 中国居民膳食营养素参考摄入量 第 2 部分：常量元素（表 1；定义 3.7）. <https://www.nhc.gov.cn/wjw/yingyang/201805/f2c614be95fe41dba8123c23a6e6fb55/files/1739783539207_73894.pdf>；Jackson RD, LaCroix AZ, Gass M, et al. (2006). Calcium plus vitamin D supplementation and the risk of fractures. New England Journal of Medicine, 354(7), 669-683. <https://doi.org/10.1056/NEJMoa055218>；Doetsch AM, Faber J, Lynnerup N, et al. (2004). The effect of calcium and vitamin D3 supplementation on the healing of the proximal humerus fracture: a randomized placebo-controlled study. Calcified Tissue International, 75, 183-188. <https://doi.org/10.1007/s00223-004-0167-0>（备注里那项）；Gorter EA, Krijnen P, Schipper IB (2017). Vitamin D status and adult fracture healing. Journal of Clinical Orthopaedics and Trauma, 8(1), 34-37. <https://doi.org/10.1016/j.jcot.2016.09.003>（备注里那项）",
             "备注": "争议：有两处小苗头。丹麦一项试验找了 30 名上臂近肩处骨折的老年女性，她们有骨质疏松或骨量偏低。每天吃 800 IU 维 D 加 1 克钙的人，第 6 周骨折处骨密度更高（0.623 对 0.570 g/cm²）。但它只量了骨密度，没看骨头长没长好，人也太少。那项 102 人的试验事后拆开看，大剂量维 D 的人功能评分略好，作者说还要再做试验确认。本来就缺维 D 的人另说。荷兰一项跟踪记录里，补了以后仍然缺的人，愈合拖慢的占 9.7%。本来不缺的人占 0.3%，补上来的人占 1.7%。这只是跟踪记录，证明不了因果。查出缺了，按医生说的补到正常。已经确诊骨质疏松、或者轻轻一摔就骨折的人，要的是抗骨质疏松药，见第 1 节第 40 条（抗骨质疏松药），钙片代替不了它。不缺维 D 的人长期补没有好处，见本节第 3 条（补维生素 D）。要否掉的是「额外猛补」，不是少吃钙，三餐里的钙照常吃够，见本节第 21 条（防肾结石把钙戒掉）。刚摔了怀疑骨折怎么办，见第 13 节第 41 条（怀疑骨折）。收益定中，是按一年钙片和维 D 的钱算的。受益人是你自己。"
           }
+        },
+        {
+          "id": "2ecde8e75c27a9d134c7",
+          "number": 31,
+          "title": "不要指望靠 AI 聊天机器人自己判断病情和法律问题，看病、打官司、花大钱之前，把它说的依据找到原文核一遍",
+          "grade": "A",
+          "tags": {
+            "钱": "0",
+            "时间": "少",
+            "毅力": "些",
+            "收益": "小",
+            "口径": "死亡率"
+          },
+          "fields": {
+            "成本": "不花钱。每次核对要多花几分钟到半小时。让 AI 写出它依据的法条、指南或论文，你自己打开原文，找到那句话。要改的习惯是，别因为它说得肯定就照做。",
+            "说人话": "把完整病例交给 AI，九成以上它能认出是什么病。但普通人拿它问症状，认出病的反而比自己上网查的人少，该不该去急诊也没判得更准。问法律问题，通用 AI 至少 58% 的回答有编的内容，还会顺着你问题里的错误说法往下讲。",
+            "收益": "先看看病。2026 年 Nature Medicine 发表了一项随机分组的试验，1298 名英国普通人参加，方案事先登记过。每人拿到两个编好的病例，要判断是什么病、该去急诊还是在家观察。一部分人用 AI 聊天机器人帮忙，用的是 GPT-4o、Llama 3、Command R+。对照组用自己平时的办法，多数是上网搜，或者看英国国家医疗服务体系（NHS）的官网。把完整病例直接交给 AI，它 94.9% 的情况能认出相关的病，56.3% 能判对该去哪看。普通人用同样的 AI，认出相关疾病的不到 34.5%，判对去哪看的不到 44.2%。对照组认出相关疾病的几率是用 AI 的人的 1.76 倍（95% CI 1.45–2.13，可信范围）。认出危险信号类重病的几率是 1.57 倍（1.28–1.92）。判断该去哪看，两边差不多。作者翻了对话记录，问题出在两头。一头是用户没把症状说全，另一头是 AI 提到了对的病，用户却没采纳。再看法律。一个美国研究团队 2024 年用 ChatGPT 4 等公开模型，问美国联邦法院的判例。ChatGPT 4 有 58% 的回答有编造，Llama 2 高到 88%。编造指和法律事实对不上的内容，论文把它叫「幻觉」。模型分不清自己哪句是编的。用户问题里带着错误的法律前提时，它常常照单全收。同一团队 2025 年又测了律师用的专业法律 AI 工具。这些工具号称不会编，实际 17% 到 33% 的回答有编造。它看起来划算，是因为 AI 随叫随到、不收钱，说话又像医生律师一样肯定",
+            "证据等级": "A",
+            "来源": "Bean AM, Payne RE, Parsons G, et al. (2026). Reliability of LLMs as medical assistants for the general public: a randomized preregistered study. Nature Medicine, 32(2), 609–615. <https://doi.org/10.1038/s41591-025-04074-y>；Dahl M, Magesh V, Suzgun M, Ho DE (2024). Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models. Journal of Legal Analysis, 16(1), 64–93. <https://doi.org/10.1093/jla/laae003>；Magesh V, Surani F, Dahl M, Suzgun M, Manning CD, Ho DE (2025). Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools. Journal of Empirical Legal Studies, 22(2), 216–242. <https://doi.org/10.1111/jels.12413>；Kalai AT, Nachum O, Vempala SS, Zhang E (2025). Why Language Models Hallucinate. arXiv:2509.04664（预印本，备注里那项）. <https://arxiv.org/abs/2509.04664>；反方：Ayers JW, Poliak A, Dredze M, et al. (2023). Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum. JAMA Internal Medicine, 183(6), 589. <https://doi.org/10.1001/jamainternmed.2023.1838>",
+            "备注": "争议。2023 年一项研究从美国论坛抽了 195 个患者提问，让医疗人员不看来源打分。78.6% 的评分认为 ChatGPT 答得比医生好。但它比的是回答写得好不好，没看提问的人最后判断对没有。试验用的是 2024 年的模型，新模型可能更强。不过同一项试验也发现，AI 单独考试的成绩预测不了普通人用它的效果。AI 为什么会编，OpenAI 的研究人员 2025 年在一篇未经同行评审的论文里解释过。训练和打分的方式奖励「猜一个答案」，答「不知道」拿不到分，所以它没把握时也说得很肯定。核对的办法是让它写出法条名称和条号、指南或论文题目，你去官方网站打开原文找那句话，找不到就当它没说过。提问时别把自己的结论写进去，问「这种情况法律怎么规定」，别问「这种情况我是不是赢定了」。突然嘴歪、一侧没劲、胸口压着疼这类信号，别先问 AI，直接打 120，见第 13 节第 3 条（嘴歪、一侧胳膊没劲）和第 13 节第 7 条（胸口压着疼）。打官司没钱请律师的，见第 7 节第 3 条（申请法律援助）。收益定小，因为只有「认没认出病」这类中间指标，没有少死人的数字。受益人是你自己和家里人。"
+          }
         }
       ]
     },
@@ -6480,9 +6510,9 @@
           }
         },
         {
-          "id": "498793d353ce9359884c",
+          "id": "4c3487e40e30ab703d63",
           "number": 6,
-          "title": "异地不比同城差，真正的坎是搬到一起之后的头三个月",
+          "title": "异地恋不比同城差，真正的坎是搬到一起之后的头三个月",
           "grade": "B",
           "tags": {
             "钱": "多",
@@ -6522,9 +6552,9 @@
           }
         },
         {
-          "id": "7edf7023ec0de30613d9",
+          "id": "25c5a62d7fa565f69ec2",
           "number": 8,
-          "title": "把健康收益算进去，但按观察性数据打折",
+          "title": "把结婚的健康收益算进去，但按观察性数据打折",
           "grade": "A",
           "tags": {
             "钱": "0",
@@ -6564,9 +6594,9 @@
           }
         },
         {
-          "id": "368f30358fe4279ed9e9",
+          "id": "24d768b3758474dcddae",
           "number": 10,
-          "title": "钱账先看法律默认规则，再决定要不要书面约定",
+          "title": "结婚的钱账先看法律默认规则，再决定要不要书面约定",
           "grade": "A",
           "tags": {
             "钱": "0",
@@ -7740,9 +7770,9 @@
           }
         },
         {
-          "id": "247f6d121cd2b2e74fff",
+          "id": "cf29a33f052895b337e8",
           "number": 2,
-          "title": "老人摔倒、有人倒地，先蹲下喊他、打 120，别急着把人扶起来；陌生人这档走开也合法，停下来就别上手搬",
+          "title": "老人摔倒、有人倒地，先蹲下喊他、打 120，别急着把人扶起来；陌生人这档走开在国内也合法，停下来就别上手搬",
           "grade": "B",
           "tags": {
             "钱": "0",
@@ -7756,8 +7786,8 @@
             "说人话": "这条的主线是自家老人和身边熟人。先看有没有呼吸，没有就按第 1 条（用力按压胸口）压胸。有呼吸也别抱起来：人可能是先中风、先晕厥才摔的，硬扶会加重。蹲下叫他，问他记不记得自己怎么倒的。腰背疼、像骨折的一律不搬，原地打 120。",
             "收益": "卫生部《老年人跌倒干预技术指南》写明两句话。一句是「跌倒是我国 65 岁以上老年人伤害死亡的首位原因」。另一句是「发现老年人跌倒，不要急于扶起，要分情况进行处理」。意识不清的，立即拨打急救电话。有呕吐的，把头偏向一侧并清理口鼻。呼吸心跳停止的，立即做胸外按压。「如需搬动，应保证平稳，尽量平卧」。意识清楚的，先问他对跌倒过程有没有记忆，「如不能记起，可能为晕厥或脑血管意外」。有剧烈头痛，或者口角歪斜、言语不利、手脚无力的，「立即扶起老年人可能加重脑出血或脑缺血，使病情加重」。有骨折迹象，或者腰背疼痛、大小便失禁的，「如无相关专业知识，不要随便搬动」。以上几种都应立即拨打急救电话。老人自己想站起来的，可以协助他缓慢起立，「坐、卧休息并观察，确认无碍后方可离开」。说到「怕被讹」，法律上是这样规定的。《最高人民法院关于适用〈中华人民共和国民事诉讼法〉的解释》第九十条有两句。头一句是「当事人对自己提出的诉讼请求所依据的事实……应当提供证据加以证明」。第二句是「在作出判决前，当事人未能提供证据或者证据不足以证明其事实主张的，由负有举证证明责任的当事人承担不利的后果」。民法典第一千一百九十八条的原文是：「宾馆、商场、银行、车站、机场、体育场馆、娱乐场所等经营场所、公共场所的经营者、管理者或者群众性活动的组织者，未尽到安全保障义务，造成他人损害的，应当承担侵权责任。」民法典第一百八十四条：「因自愿实施紧急救助行为造成受助人损害的，救助人不承担民事责任」。最高人民法院公布过一个典型案例。药店经营者给心脏骤停的人做心肺复苏，压断了对方的肋骨。受助人住院 18 天，索赔 9 千余元。法院判决救助人不承担民事责任",
             "证据等级": "B",
-            "来源": "卫生部 (2011). 老年人跌倒干预技术指南（「老年人跌倒后的处理」）. 全文 PDF 见广东省疾病预防控制中心 <http://cdcp.gd.gov.cn/gcdcdfiles/editor/uploadfile/20111027094832117.pdf>，现场处理部分全文见贵南县人民政府转载 <https://www.guinan.gov.cn/lnb/zc1__zwgk/zc/aztfl/qt/content_27609778>；全国人大 (2020). 民法典（第一百八十三、一百八十四条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；最高人民法院 (2023). 人民法院抓实公正与效率践行社会主义核心价值观典型案例（案例十三，齐某某诉孙某某健康权纠纷案，辽宁省康平县人民法院）. <https://www.court.gov.cn/zixun/xiangqing/408162.html>；最高人民法院 (2022 年第二次修正，2022 年 4 月 10 日施行). 关于适用《中华人民共和国民事诉讼法》的解释（第九十条）. <https://www.court.gov.cn/zixun/xiangqing/353651.html>；民法典第一千一百九十八条同上最高检转载全文；全国人大常委会 (2023 年修正，2024 年 1 月 1 日施行). 民事诉讼法（第一百五十二、一百六十四条）. 上海市发展和改革委员会转载全文 <https://fgw.sh.gov.cn/ys-syjf-zc-2.4.1-h5/20240408/073febdb2b04464390546232d4089f51.html>；国务院 (2006). 诉讼费用交纳办法（国务院令第 481 号，第六、二十九条）. <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm>；全国人大常委会 (2025). 治安管理处罚法（2025 年修订，2026 年 1 月 1 日起施行，第二十六条第一项、第五十条第五项）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>",
-            "备注": "定 B 是因为指南只说了该怎么处置，没有「照做能少死多少人」的数字。第一百八十四条免的是救人过程中弄出的损害，前提是你自愿、情况紧急。「自作主张把人塞进私家车送医」这类它不管，等 120 更稳妥。打完 120 别挂电话，按接线的调度员说的做。这套判断首先是给自家老人和熟人用的。换成路上不认识的人，走开不违法，也最省事：法律没规定你必须救。停下来要付的账要逐层算：时间、留号码、被家属找上、被告上法庭、闹到单位、被拍被传上网。详见 [docs/遇到陌生人出事该不该停.md](../docs/遇到陌生人出事该不该停.md)。真决定停下，唯一必须做到的是**别上手搬**，理由在医学上：硬扶可能加重脑出血或者脊柱损伤。有一个例外：这地方要是你在经营、你在管，或者活动是你组织的，走开就可能要担责。民法典第一千一百九十八条给的安全保障义务，要求你为场子里的人负一份安全责任。防跌倒本身见第 1 节第 13 条（练平衡和腿部力量）。老人磕过头之后的迟发症状见本节第 10 条。救人受伤之后的钱见本节第 39 条。被网暴怎么留证报警见第 8 节第 16 条。"
+            "来源": "卫生部 (2011). 老年人跌倒干预技术指南（「老年人跌倒后的处理」）. 全文 PDF 见广东省疾病预防控制中心 <http://cdcp.gd.gov.cn/gcdcdfiles/editor/uploadfile/20111027094832117.pdf>，现场处理部分全文见贵南县人民政府转载 <https://www.guinan.gov.cn/lnb/zc1__zwgk/zc/aztfl/qt/content_27609778>；全国人大 (2020). 民法典（第一百八十三、一百八十四条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；最高人民法院 (2023). 人民法院抓实公正与效率践行社会主义核心价值观典型案例（案例十三，齐某某诉孙某某健康权纠纷案，辽宁省康平县人民法院）. <https://www.court.gov.cn/zixun/xiangqing/408162.html>；最高人民法院 (2022 年第二次修正，2022 年 4 月 10 日施行). 关于适用《中华人民共和国民事诉讼法》的解释（第九十条）. <https://www.court.gov.cn/zixun/xiangqing/353651.html>；民法典第一千一百九十八条同上最高检转载全文；全国人大常委会 (2023 年修正，2024 年 1 月 1 日施行). 民事诉讼法（第一百五十二、一百六十四条）. 上海市发展和改革委员会转载全文 <https://fgw.sh.gov.cn/ys-syjf-zc-2.4.1-h5/20240408/073febdb2b04464390546232d4089f51.html>；国务院 (2006). 诉讼费用交纳办法（国务院令第 481 号，第六、二十九条）. <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm>；全国人大常委会 (2025). 治安管理处罚法（2025 年修订，2026 年 1 月 1 日起施行，第二十六条第一项、第五十条第五项）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；德国联邦司法部. Strafgesetzbuch (StGB) § 323c Unterlassene Hilfeleistung; Behinderung von hilfeleistenden Personen. <https://www.gesetze-im-internet.de/stgb/__323c.html>",
+            "备注": "定 B 是因为指南只说了该怎么处置，没有「照做能少死多少人」的数字。第一百八十四条免的是救人过程中弄出的损害，前提是你自愿、情况紧急。「自作主张把人塞进私家车送医」这类它不管，等 120 更稳妥。打完 120 别挂电话，按接线的调度员说的做。这套判断首先是给自家老人和熟人用的。换成路上不认识的人，走开不违法，也最省事：中国法律没规定你必须救。出了国就不一定了。比如在德国，碰上事故或险情，帮得上、又不会让自己陷进大危险却不帮，本身就是犯罪，最高判 1 年或者罚款。人在国外，按当地法律算。停下来要付的账要逐层算：时间、留号码、被家属找上、被告上法庭、闹到单位、被拍被传上网。详见 [docs/遇到陌生人出事该不该停.md](../docs/遇到陌生人出事该不该停.md)。真决定停下，唯一必须做到的是**别上手搬**，理由在医学上：硬扶可能加重脑出血或者脊柱损伤。有一个例外：这地方要是你在经营、你在管，或者活动是你组织的，走开就可能要担责。民法典第一千一百九十八条给的安全保障义务，要求你为场子里的人负一份安全责任。防跌倒本身见第 1 节第 13 条（练平衡和腿部力量）。老人磕过头之后的迟发症状见本节第 10 条。救人受伤之后的钱见本节第 39 条。被网暴怎么留证报警见第 8 节第 16 条。"
           }
         },
         {
@@ -8244,9 +8274,9 @@
           }
         },
         {
-          "id": "e76ceb5affda5ffe9672",
+          "id": "5752116c659ed41ea3b3",
           "number": 26,
-          "title": "有人噎住说不出话，站到背后做 5 次拍背加 5 次腹部冲击，倒下就做心肺复苏",
+          "title": "有人噎住说不出话，1 岁以上的站到背后做 5 次拍背加 5 次腹部冲击，倒下就做心肺复苏",
           "grade": "B",
           "tags": {
             "钱": "0",
@@ -8257,7 +8287,7 @@
           },
           "fields": {
             "成本": "不花钱。看一遍动作：一手握拳顶在肚脐上方，另一手包住，向内向上快速冲击。",
-            "说人话": "先问「你噎住了吗，能说话吗」。还能用力咳、能出声的不要动手，让他咳。说不出话就站到背后，5 次拍背接 5 次腹部冲击，反复做到东西出来或者人倒下。倒下就做心肺复苏，同时叫人打急救电话。孕妇和很胖的人改冲胸口。别伸手去嘴里掏看不见的东西。",
+            "说人话": "先问「你噎住了吗，能说话吗」。还能咳、能出声的让他自己咳。1 岁以上的说不出话，就站到背后，5 次拍背接 5 次腹部冲击，反复做到东西出来或者人倒下。倒下就做心肺复苏，同时叫人打急救电话。孕妇和很胖的人改冲胸口。别伸手去嘴里掏看不见的东西。",
             "收益": "美国国立医学图书馆原文：先问「你噎住了吗，能说话吗」。「能用力咳嗽、能说话的不要动手」，咳嗽本身多能把异物咳出。说不出话就「反复做 5 次拍背接 5 次腹部冲击，直到异物出来或人失去意识」。「失去意识就开始心肺复苏」，同时叫人打急救电话。孕妇、肥胖者改做胸部冲击",
             "证据等级": "B",
             "来源": "US National Library of Medicine, MedlinePlus. Choking – adult or child over 1 year. <https://medlineplus.gov/ency/article/000047.htm>；福州市卫生健康委员会 (2026). 海姆立克急救法更新了：「1岁以上幼儿、儿童及成人：从旧版单一腹部冲击改为\"5次背部拍击+5次腹部冲击\"的循环」「中国红十字系统急救培训一直都是按\"5次背部拍击+5次腹部冲击\"循环进行的方式进行教学」. <https://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/jkkp/202601/t20260108_5268351.htm>",
@@ -8867,9 +8897,9 @@
       "path": "15-租房与买房.md",
       "entries": [
         {
-          "id": "24ff9dd3552f7c7cf086",
+          "id": "216e95d568f43abe93e2",
           "number": 1,
-          "title": "押金的数额、退还时间和扣减情形，必须写进合同",
+          "title": "租房时押金的数额、退还时间和扣减情形，必须写进合同",
           "grade": "A",
           "tags": {
             "钱": "0",
@@ -8972,9 +9002,9 @@
           }
         },
         {
-          "id": "023c2842340a898e3814",
+          "id": "e9fcb4d52301d2cba09f",
           "number": 6,
-          "title": "签约前核对产权证和抵押情况，所有款项走转账并备注用途",
+          "title": "租房签约前核对产权证和抵押情况，所有款项走转账并备注用途",
           "grade": "C",
           "tags": {
             "钱": "0",
@@ -9539,9 +9569,9 @@
           }
         },
         {
-          "id": "0c87e1e2e66aa816187a",
+          "id": "f952ee88f51925f0da34",
           "number": 4,
-          "title": "时间账按「谁的时间被占掉」算，不按「辛不辛苦」算",
+          "title": "养孩子的时间账按「谁的时间被占掉」算，不按「辛不辛苦」算",
           "grade": "C",
           "tags": {
             "钱": "0",
@@ -10015,9 +10045,9 @@
       "path": "20-刚出生的孩子怎么带.md",
       "entries": [
         {
-          "id": "6b1a2f4bb06807a4d733",
+          "id": "547feefba6f29972899e",
           "number": 1,
-          "title": "让孩子仰着睡，睡硬的平面，同房不同床，床上不放任何软东西",
+          "title": "让婴儿期的孩子仰着睡，睡硬的平面，同房不同床，床上不放任何软东西",
           "grade": "A",
           "tags": {
             "钱": "0",
@@ -10028,7 +10058,7 @@
           },
           "fields": {
             "成本": "不花钱。床垫要换成硬的，几百元。难在要顶住长辈的说法，一直按这个来",
-            "说人话": "让孩子脸朝上躺着睡，睡在硬的平面上。大人和孩子睡同一间房，但不睡同一张床。床上不放枕头、被子、床围、毛绒玩具和定型枕。斜着的摇篮和婴儿椅只能坐，不能当床睡。光美国每年就有约 3500 个婴儿死在睡眠里。",
+            "说人话": "孩子还是婴儿的时候，让他脸朝上躺着睡，睡在硬的平面上。大人和孩子睡同一间房，但不睡同一张床。床上不放枕头、被子、床围、毛绒玩具和定型枕。斜着的摇篮和婴儿椅只能坐，不能当床睡。光美国每年就有约 3500 个婴儿死在睡眠里。",
             "收益": "美国每年约 3500 名婴儿死于睡眠相关原因。这里面包括婴儿猝死综合征、死因不明和在床上意外憋住。美国儿科学会给的安全睡眠环境是「仰卧位；使用坚实、不倾斜的睡眠表面；同房不同床；避免柔软的寝具和过热」。还有几件事也能降低风险：母乳喂养、别让孩子接触尼古丁和酒精、按时接种疫苗、使用安抚奶嘴",
             "证据等级": "A",
             "来源": "Moon RY, Carlin RF, Hand I, Task Force on Sudden Infant Death Syndrome and the Committee on Fetus and Newborn (2022). Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics, 150(1), e2022057990. <https://doi.org/10.1542/peds.2022-057990>",
@@ -11604,9 +11634,9 @@
           }
         },
         {
-          "id": "50b34702ba8323dea0e9",
+          "id": "8df1ee3cbdba6c7923f1",
           "number": 5,
-          "title": "注销户口有法定时限：城市在安葬前，农村在一个月以内",
+          "title": "给去世的人注销户口有法定时限：城市在安葬前，农村在一个月以内",
           "grade": "A",
           "tags": {
             "钱": "0",
@@ -13949,9 +13979,9 @@
           }
         },
         {
-          "id": "f5caf7a5098ba1602b93",
+          "id": "6c8faf19c766ecb0963b",
           "number": 10,
-          "title": "找工作时主动说明自己持证，企业招你能抵掉一笔钱",
+          "title": "找工作时主动说明自己持残疾人证，企业招你能抵掉一笔钱",
           "grade": "A",
           "tags": {
             "钱": "0",
